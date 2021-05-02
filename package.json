@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-mycoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gia-Kiet-99/BlockChain-MyCoin.git"
+  },
+  "author": "Gia Kiet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gia-Kiet-99/BlockChain-MyCoin/issues"
+  },
+  "homepage": "https://github.com/Gia-Kiet-99/BlockChain-MyCoin#readme"
+}
